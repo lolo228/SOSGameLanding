@@ -71,21 +71,18 @@ A modern, fully responsive landing page for **SOS - Social Battle Royale Game**.
 
 ## 📸 Screenshots
 
-### Desktop View
 <div align="center">
-  <img src="images/screenshot-1.png" alt="Desktop Hero Section" width="800"/>
+  <img src="screenshots/1.png" alt="Desktop Hero Section" width="800"/>
   <p><i>Hero Section with Call-to-Action</i></p>
 </div>
 
-### Gallery & About Section
 <div align="center">
-  <img src="images/screenshot-2.png" alt="Gallery Section" width="800"/>
+  <img src="screenshots/2.png" alt="Gallery Section" width="800"/>
   <p><i>Interactive 3D Card Stack Gallery</i></p>
 </div>
 
-### Features & Testimonials
 <div align="center">
-  <img src="images/screenshot-3.png" alt="Features Section" width="800"/>
+  <img src="screenshots/3.png" alt="Features Section" width="800"/>
   <p><i>Game Features and User Testimonials</i></p>
 </div>
 
